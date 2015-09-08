@@ -24,4 +24,4 @@ A: By testing previous commits you can see where bug wasn't present.
 
 Q: Now that you have your workspace set up, what do you want to try using Git for?
 
-A: For my project.
+A: For my future project.
